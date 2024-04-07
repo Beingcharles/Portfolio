@@ -1,6 +1,7 @@
 # Data Scientist
 
-#### Technical Skills: Programming(Python, SQL, DAX, VBA), Algorithms/Libraries (Pandas, NumPy, Matplotlib, Seaborn, SciKit-Learn, Tensorflow, Keras), Databases(MySQL, MongoDB), Analytical and Visualization Tools (PowerBI, Tableau, Jupyter Notebook, Kaggle Notebook, MS Excel, Google Collab, Google Analytics).
+#### Technical Skills: 
+Programming(Python, SQL, DAX, VBA), Algorithms/Libraries (Pandas, NumPy, Matplotlib, Seaborn, SciKit-Learn, Tensorflow, Keras), Databases(MySQL, MongoDB), Analytical and Visualization Tools (PowerBI, Tableau, Jupyter Notebook, Kaggle Notebook, MS Excel, Google Collab, Google Analytics).
 
 ## Education
 - Master's in Business Analytics and Digital Marketing, 2024, GUVI Geek Networks, IITM Research Park, Chennai, India.
@@ -19,30 +20,23 @@ Kingdom.
 
 ## Projects
 ### Walmart Superstore Sales Analysis with Excel and Power BI
-    https://github.com/Beingcharles/Capstone-1
+Explore the retail landscape with an in-depth analysis of sales data from Walmart Superstores using Excel and Power BI. Uncover trends, patterns, and insights to optimize inventory management, enhance product offerings, and maximize revenue potential. Gain valuable experience in data visualization and analytics while delving into the dynamic world of retail analytics.
 ### Cyclistic Bike Share Analysis with Tableau
-    https://github.com/Beingcharles/Capstone-2
+Data exploration with Cyclistic Bike Share Analysis using Tableau. Dive deep into rider behavior, usage patterns, and demographic trends to optimize marketing strategies and improve customer satisfaction. Through interactive visualizations, uncover actionable insights to drive business decisions and enhance the biking experience for users
 ### Telecom Customer Churn Analysis and Retention with MySQL and Power BI
-    https://github.com/Beingcharles/Guvi-Final-Capstone---Customer-Churn-Retention-Analysis
+The customer retention in the telecom industry through comprehensive churn analysis using MySQL and Power BI. Delve into customer behavior, usage patterns, and demographics to identify key factors influencing churn. Implement data-driven strategies to enhance customer satisfaction, reduce churn rates, and maximize revenue potential, empowering telecom companies to thrive in a competitive market.
 ### Diabetes Prediction Analysis with Python
-    https://github.com/Beingcharles/Diabetes-Prediction-Analysis
+Predict the onset of diabetes using advanced machine learning techniques in Python. Explore a dataset containing patient demographics, medical history, and lifestyle factors to develop accurate predictive models. This project aims to assist healthcare professionals in early diagnosis and personalized treatment strategies, ultimately improving patient outcomes and reducing healthcare costs.
 ### HR Attrition Dashboard with Power BI
-    https://github.com/Beingcharles/HR-Attrition-Analysis-Dasboard
+Visualize and analyze employee attrition trends using a comprehensive HR Attrition Dashboard built with Power BI. Gain insights into factors driving employee turnover, such as job satisfaction, performance ratings, and tenure. This project aims to empower HR professionals and decision-makers with actionable insights to enhance employee retention strategies and optimize workforce management practices.
 
 ## Certifications
-### CMI Level 7 Diploma in Strategic Management and Leadership Practice by Chartered Management Institute
-    https://www.linkedin.com/posts/charles-4b527122b_bettermanagers-activity-7140984852555759616-m5yF?utm_source=share&utm_medium=member_ios
-### Career Essentials in Business Analysis by Microsoft and LinkedIn
-    https://www.linkedin.com/posts/charles-4b527122b_certificate-of-completion-activity-7158654267556347904-tzsV?utm_source=share&utm_medium=member_ios
-### SQL Basic and Intermediate Certificate by HackerRank
-    https://www.linkedin.com/posts/charles-4b527122b_sql-certification-databasemanagement-activity-7159149143251148800-qb1C?utm_source=share&utm_medium=member_desktop
-### Excel Essential Training (Microsoft 365) by LinkedIn
-    https://www.linkedin.com/learning/certificates/6b6c6d840f9bb310a00dfb87d155453703ddb4000bfdec222a7eaf29b202ab14
-### B2B Foundations: Social Media Marketing byb LinkedIn
-    https://www.linkedin.com/learning/certificates/08969cd3dfca55c70dc8784e5006d6cdd5006d331ad5ac6eb8872f48e5255f65
-### Python by GUVI Geek Networks, IITM Research Park
-    https://www.guvi.in/verify-certificate?id=2060rnJ14W0475ATV3
-### Business Analysis Foundation by IIBA
-    https://www.linkedin.com/posts/charles-4b527122b_certificate-of-completion-activity-7151723315831738368-R5UF?utm_source=share&utm_medium=member_ios
-### Project Management Foundations: Requirements by Project Management Institute
-    https://www.linkedin.com/posts/charles-4b527122b_certificate-of-completion-activity-7154106518601158656-8i7M?utm_source=share&utm_medium=member_ios
+- CMI Level 7 Diploma in Strategic Management and Leadership Practice by Chartered Management Institute
+- Career Essentials in Business Analysis by Microsoft and LinkedIn
+- SQL Basic and Intermediate Certificates by HackerRank
+- Excel Essential Training Microsoft 365 by LinkedIn
+- B2B Foundations: Social Media Marketing byb LinkedIn
+- Python by GUVI Geek Networks, IITM Research Park
+- Business Analysis Foundation by IIBA
+- Project Management Foundations: Requirements by Project Management Institute
+    
