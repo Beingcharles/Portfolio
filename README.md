@@ -11,15 +11,19 @@ Kingdom.
 
 - Bachelor's in Physics, 2021, Bharathidasan University, Tiruchirappalli, India.
 
-## Work Experience
+## Relevant Experience
 **Data Analyst @ MeriSKILL, 2024**
+
 - Hands-on experience: Gained practical skills in data collection, processing, analysis, and visualization through real-time business projects at MeriSKILL.
 - Technical expertise: Developed proficiency in data mining, statistical analysis, predictive modeling, and data visualization techniques.
 - Conducted data collection, processing, and analysis for HR Analytics project.
 - Predicted whether a patient has diabetes based on certain diagnostic measurements by building predictive model.
 
+## Professional Experience
+
+
 ## Projects
-### Walmart Superstore Sales Analysis with Excel and Power BI
+### [Project 1: Walmart Superstore Sales Analysis](https://github.com/Beingcharles/Capstone-1)
 Explore the retail landscape with an in-depth analysis of sales data from Walmart Superstores using Excel and Power BI. Uncover trends, patterns, and insights to optimize inventory management, enhance product offerings, and maximize revenue potential. Gain valuable experience in data visualization and analytics while delving into the dynamic world of retail analytics.
 ### Cyclistic Bike Share Analysis with Tableau
 Data exploration with Cyclistic Bike Share Analysis using Tableau. Dive deep into rider behavior, usage patterns, and demographic trends to optimize marketing strategies and improve customer satisfaction. Through interactive visualizations, uncover actionable insights to drive business decisions and enhance the biking experience for users
