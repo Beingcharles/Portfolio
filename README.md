@@ -24,7 +24,12 @@ Kingdom.
 
 ## Projects
 ### [Project 1: Walmart Superstore Sales Analysis](https://github.com/Beingcharles/Capstone-1)
-Explore the retail landscape with an in-depth analysis of sales data from Walmart Superstores using Excel and Power BI. Uncover trends, patterns, and insights to optimize inventory management, enhance product offerings, and maximize revenue potential. Gain valuable experience in data visualization and analytics while delving into the dynamic world of retail analytics.
+* Overview: Developed interactive dashboards with custom visualizations, resulting in actionable insights for optimizing sales performance and fostering growth opportunities.
+* Objective: Utilized data on products, customers, stores, and transactions to assess overall sales performance, employing tools such as Excel and Power BI to visualize key metrics and facilitate strategic decision-making.
+* Actions: Predicted Walmart's profit using Power BI, showcasing hierarchical data representation and series of data points. Demonstrated the 80/20 principle in sales visually, analyze key metrics, and create actionable insights. Presented sales analysis dashboards covering sales, revenue, inventory management, customer insights, and store performance metrics to optimize operations.
+* Outcome: Analysed the overall sales of walmart super store data and create various dashboards using powerbi with the given dataset.
+Key Skills: Data Modelling, Data Visualization, Report Development, Data Integeration, Business Acumen.
+
 ### [Project 2: Cyclistic Bike Share Analysis](https://github.com/Beingcharles/Capstone-2)
 Data exploration with Cyclistic Bike Share Analysis using Tableau. Dive deep into rider behavior, usage patterns, and demographic trends to optimize marketing strategies and improve customer satisfaction. Through interactive visualizations, uncover actionable insights to drive business decisions and enhance the biking experience for users
 ### [Project 3: Telecom Customer Churn Analysis and Retention](https://github.com/Beingcharles/Guvi-Final-Capstone---Customer-Churn-Retention-Analysis)
