@@ -36,7 +36,7 @@ Programming(Python, SQL, DAX, VBA), Algorithms/Libraries (Pandas, NumPy, Matplot
 * Actions: Utilized SQL queries in MySQL to develop an interactive Power BI dashboard with custom visualizations, enabling actionable insights for optimizing Telecom customer churn, and devised strategies to reduce churn rate based on analysis of key factors and patterns.
 * Outcomes: This project empowered the telecommunications company with insights into customer churn, facilitating the development of data-driven strategies for improving retention. These insights informed decision-making and enabled the creation of targeted retention programs, ultimately enhancing customer satisfaction and reducing revenue loss associated with churn.
 -Key Skills: Database Management, Data Analaysis, Data visulaisation, Business Acumen.
-![]()
+![](https://github.com/Beingcharles/Portfolio/blob/main/asset/customer%20churn%20logo.jpg)
 
 ## Relevant Experience
 ### [Data Analyst @ MeriSKILL, (2024)](https://www.linkedin.com/posts/charles-4b527122b_certificate-of-completion-activity-7167872604396064768-X6jb?utm_source=share&utm_medium=member_desktop)
