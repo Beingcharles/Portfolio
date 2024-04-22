@@ -14,23 +14,22 @@ Programming(Python, SQL, DAX, VBA), Algorithms/Libraries (Pandas, NumPy, Matplot
 ### [Project 1 Overview: Walmart Superstore Sales Analysis](https://github.com/Beingcharles/Capstone-1)
 
 * Objective: Utilized data on products, customers, stores, and transactions to assess overall sales performance, employing tools such as Excel and Power BI to visualize key metrics and facilitate strategic decision-making.
-* Actions: Predicted Walmart's profit using Power BI, showcasing hierarchical data representation and series of data points. Demonstrated the 80/20 principle in sales visually, analyze key metrics, and create actionable insights. Presented sales analysis dashboards covering sales, revenue, inventory management, customer insights, and store performance metrics to optimize operations.
-* Outcome: Analysed the overall sales of walmart super store data and create various dashboards using powerbi with the given dataset.
+* Actions: Utilized Power BI to predict Walmart's profit, visually demonstrated the 80/20 principle in sales, and presented comprehensive sales analysis dashboards to optimize operations.
+* Outcome: Analyzed the overall sales of Walmart Superstore data and created various dashboards using Power BI with the given dataset.
 -Key Skills: Data Modelling, Data Visualization, Report Development, Data Integeration, Business Acumen.
 
 ### [Project 2 Overview: Cyclistic Bike Share Analysis](https://github.com/Beingcharles/Capstone-2)
 
 * Objective: As a junior data analyst at Cyclistic, the objective is to analyze usage patterns between casual riders and annual members to inform the development of a new marketing strategy aimed at converting casual riders into annual members. Recommendations will be supported by compelling data insights and professional visualizations for approval by Cyclistic executives. 
-* Actions: By following the Case Study Roadmap, including key tasks and guiding questions, the objective is to effectively answer key business questions through the steps of asking, preparing, processing, analyzing, sharing, and acting on data insights. And by creating compelling data visualizations and insights, I supported the development of a new marketing strategy aimed at converting casual riders into annual members. 
-* Outcome: Throughout the project, I defined the business task, identified relevant data sources, and meticulously documented all data cleaning or manipulation. Following this, I conducted a thorough analysis, summarizing key findings and crafting supporting visualizations to effectively communicate insights. And finally, based on the analysis, I generated the recommendations to address the business task, compiling all deliverables into a comprehensive report for presentation.
+* Actions: Followed the Case Study Roadmap to effectively address key business questions through the data analysis process, supporting the development of a new marketing strategy to convert casual riders into annual members through compelling data visualizations and insights. 
+* Outcome: Throughout the project, I defined the business task, identified relevant data sources, conducted thorough analysis, and generated recommendations, compiling all deliverables into a comprehensive report for presentation.
 -Key Skills: Data Analysis, Data Visualisation, statistical analysis, Problem solving.
 
 ### [Project 3 Overview: Telecom Customer Churn Analysis](https://github.com/Beingcharles/Guvi-Final-Capstone---Customer-Churn-Retention-Analysis)
 
 * Objective: The challenge is to analyze this dataset using data analytics techniques and uncover insights that can help the company understand the drivers of churn and take proactive measures to retain customers.
-* Actions: Created a set of SQL queries in MySQL to support a interactive dashboard with custom visualizations, resulting in actionable insights for optimizing Telecom customer churn and given reccommemdations to reduce customer churn rate. Analyzed customer churn for the telecommunications company by identifying key factors and patterns contributing to churn, utilizing provided dataset with customer demographics, service usage, and churn status. Developed strategies to reduce churn rate and increase customer retention based on insights derived from the analysis.
+* Actions: Utilized SQL queries in MySQL to develop an interactive Power BI dashboard with custom visualizations, enabling actionable insights for optimizing Telecom customer churn, and devised strategies to reduce churn rate based on analysis of key factors and patterns.
 * Outcomes: This project empowered the telecommunications company with insights into customer churn, facilitating the development of data-driven strategies for improving retention. These insights informed decision-making and enabled the creation of targeted retention programs, ultimately enhancing customer satisfaction and reducing revenue loss associated with churn.
-
 -Key Skills: Database Management, Data Analaysis, Data visulaisation, Business Acumen.
 
 ### [Project 4: Diabetes Prediction Analysis](https://github.com/Beingcharles/Diabetes-Prediction-Analysis)
