@@ -52,7 +52,7 @@ Predict the onset of diabetes using advanced machine learning techniques in Pyth
 ### [Project 5: HR Attrition Analysis Dashboard](https://github.com/Beingcharles/HR-Attrition-Analysis-Dasboard)
 Visualize and analyze employee attrition trends using a comprehensive HR Attrition Dashboard built with Power BI. Gain insights into factors driving employee turnover, such as job satisfaction, performance ratings, and tenure. This project aims to empower HR professionals and decision-makers with actionable insights to enhance employee retention strategies and optimize workforce management practices.
 
-## Certifications
+## [Certifications](https://www.linkedin.com/in/charles-4b527122b/details/certifications/)
 - CMI Level 7 Diploma in Strategic Management and Leadership Practice by Chartered Management Institute
 - Foundations of Data Science by Google
 - Career Essentials in Business Analysis by Microsoft and LinkedIn
