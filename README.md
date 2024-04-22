@@ -28,7 +28,7 @@ Kingdom.
 * Objective: Utilized data on products, customers, stores, and transactions to assess overall sales performance, employing tools such as Excel and Power BI to visualize key metrics and facilitate strategic decision-making.
 * Actions: Predicted Walmart's profit using Power BI, showcasing hierarchical data representation and series of data points. Demonstrated the 80/20 principle in sales visually, analyze key metrics, and create actionable insights. Presented sales analysis dashboards covering sales, revenue, inventory management, customer insights, and store performance metrics to optimize operations.
 * Outcome: Analysed the overall sales of walmart super store data and create various dashboards using powerbi with the given dataset.
-Key Skills: Data Modelling, Data Visualization, Report Development, Data Integeration, Business Acumen.
+  Key Skills: Data Modelling, Data Visualization, Report Development, Data Integeration, Business Acumen.
 
 ### [Project 2: Cyclistic Bike Share Analysis](https://github.com/Beingcharles/Capstone-2)
 Data exploration with Cyclistic Bike Share Analysis using Tableau. Dive deep into rider behavior, usage patterns, and demographic trends to optimize marketing strategies and improve customer satisfaction. Through interactive visualizations, uncover actionable insights to drive business decisions and enhance the biking experience for users
