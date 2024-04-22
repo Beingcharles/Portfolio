@@ -19,7 +19,8 @@ Programming(Python, SQL, DAX, VBA), Algorithms/Libraries (Pandas, NumPy, Matplot
 * Actions: Utilized Power BI to predict Walmart's profit, visually demonstrated the 80/20 principle in sales, and presented comprehensive sales analysis dashboards to optimize operations.
 * Outcome: Analyzed the overall sales of Walmart Superstore data and created various dashboards using Power BI with the given dataset.
 -Key Skills: Data Modelling, Data Visualization, Report Development, Data Integeration, Business Acumen.
-[](https://github.com/Beingcharles/Portfolio/blob/main/asset/walmart%20%20logo.png)
+
+![](https://github.com/Beingcharles/Portfolio/blob/main/asset/walmart%20%20logo.png)
 
 ### [Project 2 Overview: Cyclistic Bike Share Analysis](https://github.com/Beingcharles/Capstone-2)
 
@@ -27,6 +28,7 @@ Programming(Python, SQL, DAX, VBA), Algorithms/Libraries (Pandas, NumPy, Matplot
 * Actions: Followed the Case Study Roadmap to effectively address key business questions through the data analysis process, supporting the development of a new marketing strategy to convert casual riders into annual members through compelling data visualizations and insights. 
 * Outcome: Throughout the project, I defined the business task, identified relevant data sources, conducted thorough analysis, and generated recommendations, compiling all deliverables into a comprehensive report for presentation.
 -Key Skills: Data Analysis, Data Visualisation, Data Cleaning, statistical analysis, Problem solving.
+![]()
 
 ### [Project 3 Overview: Telecom Customer Churn Analysis](https://github.com/Beingcharles/Guvi-Final-Capstone---Customer-Churn-Retention-Analysis)
 
