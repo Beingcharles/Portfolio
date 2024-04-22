@@ -48,10 +48,10 @@ Programming(Python, SQL, DAX, VBA), Algorithms/Libraries (Pandas, NumPy, Matplot
 ## Relevant Experience
 **Data Analyst @ MeriSKILL, 2024**
 
-*Hands-on experience: Gained practical skills in data collection, processing, analysis, and visualization through real-time business projects at MeriSKILL.
-*Technical expertise: Developed proficiency in data mining, statistical analysis, predictive modeling, and data visualization techniques.
-*Conducted data collection, processing, and analysis for HR Analytics project.
-*Predicted whether a patient has diabetes based on certain diagnostic measurements by building predictive model.
+* Hands-on experience: Gained practical skills in data collection, processing, analysis, and visualization through real-time business projects at MeriSKILL.
+* Technical expertise: Developed proficiency in data mining, statistical analysis, predictive modeling, and data visualization techniques.
+* Conducted data collection, processing, and analysis for HR Analytics project.
+* Predicted whether a patient has diabetes based on certain diagnostic measurements by building predictive model.
 
 ## Professional Experience
 
