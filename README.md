@@ -4,14 +4,6 @@
 
 Programming(Python, SQL, DAX, VBA), Algorithms/Libraries (Pandas, NumPy, Matplotlib, Seaborn, SciKit-Learn, Tensorflow, Keras), Databases(MySQL, MongoDB), Analytical and Visualization Tools (PowerBI, Tableau, Jupyter Notebook, Kaggle Notebook, MS Excel, Google Collab, Google Analytics).
 
-## Education
-
-- Master's in Business Analytics and Digital Marketing, 2024, GUVI Geek Networks, IITM Research Park, Chennai, India.
-
-- Master's in Business Administration, 2022, University of West London - The Claude Littner Business School, London, United Kingdom.
-
-- Bachelor's in Physics, 2021, Bharathidasan University, Tiruchirappalli, India.
-
 ## Projects
 ### [Project 1 Overview: Walmart Superstore Sales Analysis](https://github.com/Beingcharles/Capstone-1)
 
@@ -51,6 +43,14 @@ Programming(Python, SQL, DAX, VBA), Algorithms/Libraries (Pandas, NumPy, Matplot
 * Utilized Tevalis & Fourth to optimize staff schedules, leading to a 5% reduction in operational costs while ensuring adherence to budget constraints.
 * Improved efficiency and customer satisfaction through inventory management, training program development, and process enhancements.
 * Enhanced financial forecasting models in Excel, resulting in a 10% increase in ROI by accurately projecting revenue and advising on strategic investments.
+
+## Education
+
+- Master's in Business Analytics and Digital Marketing, 2024, GUVI Geek Networks, IITM Research Park, Chennai, India.
+
+- Master's in Business Administration, 2022, University of West London - The Claude Littner Business School, London, United Kingdom.
+
+- Bachelor's in Physics, 2021, Bharathidasan University, Tiruchirappalli, India.
 
 ## [Certifications](https://www.linkedin.com/in/charles-4b527122b/details/certifications/)
 
