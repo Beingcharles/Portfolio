@@ -20,7 +20,7 @@ Programming(Python, SQL, DAX, VBA), Algorithms/Libraries (Pandas, NumPy, Matplot
 * Outcome: Analyzed the overall sales of Walmart Superstore data and created various dashboards using Power BI with the given dataset.
 -Key Skills: Data Modelling, Data Visualization, Report Development, Data Integeration, Business Acumen.
 
-![](/asset/walmart%20%20logo.png)
+                                             ![](/asset/walmartlogo.png)
 
 ### [Project 2 Overview: Cyclistic Bike Share Analysis](https://github.com/Beingcharles/Capstone-2)
 
@@ -29,7 +29,7 @@ Programming(Python, SQL, DAX, VBA), Algorithms/Libraries (Pandas, NumPy, Matplot
 * Outcome: Throughout the project, I defined the business task, identified relevant data sources, conducted thorough analysis, and generated recommendations, compiling all deliverables into a comprehensive report for presentation.
 -Key Skills: Data Analysis, Data Visualisation, Data Cleaning, statistical analysis, Problem solving.
 
-![](/asset/cyclistic%20bike%20logo.png)
+                                             ![](/asset/cyclisticlogo.png)
 
 ### [Project 3 Overview: Telecom Customer Churn Analysis](https://github.com/Beingcharles/Guvi-Final-Capstone---Customer-Churn-Retention-Analysis)
 
@@ -38,7 +38,7 @@ Programming(Python, SQL, DAX, VBA), Algorithms/Libraries (Pandas, NumPy, Matplot
 * Outcomes: This project empowered the telecommunications company with insights into customer churn, facilitating the development of data-driven strategies for improving retention. These insights informed decision-making and enabled the creation of targeted retention programs, ultimately enhancing customer satisfaction and reducing revenue loss associated with churn.
 -Key Skills: Database Management, Data Analaysis, Data visulaisation, Business Acumen.
 
-![](/asset/customer%20churn%20logo.jpg)
+                                             ![](/asset/customerchurnlogo.jpg)
 
 ## Relevant Experience
 ### [Data Analyst @ MeriSKILL, (2024)](https://www.linkedin.com/posts/charles-4b527122b_certificate-of-completion-activity-7167872604396064768-X6jb?utm_source=share&utm_medium=member_desktop)
