@@ -13,7 +13,6 @@ Programming(Python, SQL, DAX, VBA), Algorithms/Libraries (Pandas, NumPy, Matplot
 -Key Skills: Data Modelling, Data Visualization, Report Development, Data Integeration, Business Acumen.
 
 ### [Project 2 Overview: Cyclistic Bike Share Analysis](https://github.com/Beingcharles/Capstone-2)
-<p align="center">
 
 * Objective: As a junior data analyst at Cyclistic, the objective is to analyze usage patterns between casual riders and annual members to inform the development of a new marketing strategy aimed at converting casual riders into annual members. Recommendations will be supported by compelling data insights and professional visualizations for approval by Cyclistic executives. 
 * Actions: Followed the Case Study Roadmap to effectively address key business questions through the data analysis process, supporting the development of a new marketing strategy to convert casual riders into annual members through compelling data visualizations and insights. 
