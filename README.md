@@ -1,8 +1,8 @@
 # Data Science Portfolio
 
 ## Technical Skills
-
-<div style="text-align: justify;">
+>
+<div align="right"> 
 Programming(Python, SQL, DAX, VBA), Algorithms/Libraries (Pandas, NumPy, Matplotlib, Seaborn, SciKit-Learn, Tensorflow, Keras), Databases(MySQL, MongoDB), Analytical and Visualization Tools (PowerBI, Tableau, Jupyter Notebook, Kaggle Notebook, MS Excel, Google Collab, Google Analytics).
 
 </div>
