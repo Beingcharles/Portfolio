@@ -1,4 +1,3 @@
-<div style="text-align: justify;">
 # Data Science Portfolio
 
 ## Technical Skills
@@ -65,5 +64,5 @@ Programming(Python, SQL, DAX, VBA), Algorithms/Libraries (Pandas, NumPy, Matplot
 6. B2B Foundations: Social Media Marketing byb LinkedIn.
 7. Python by GUVI Geek Networks, IITM Research Park.
 
-</div>
+
 
